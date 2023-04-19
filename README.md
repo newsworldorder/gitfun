@@ -1,2 +1,1 @@
-# gitfun 
-hello everyone
+hello serdar 
